@@ -17,7 +17,7 @@ __   ___       __                     __   __
         CVE- -.py
         (*)  (CVE- -) exploit by Densu Labs
         
-          - 
+        - 
 
         CVEs: 
 """
